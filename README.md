@@ -1,0 +1,1 @@
+This example demonstrates a common error in ActionScript 3 related to the usage of default parameters and named parameters.  The `bug.as` file contains code that incorrectly attempts to use named parameter syntax, resulting in a compilation error. The `bugSolution.as` file shows the correct way to achieve the desired behavior.
